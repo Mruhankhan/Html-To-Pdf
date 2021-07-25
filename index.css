@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    margin: 0%;
+    background-color: lightgreen;
+
+}
+#div{
+    width: 700px;
+    height: 460px;
+    background-color: lightblue;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}
+h1{
+    margin: 25px auto;
+}
+#button{
+margin:25px auto;
+}
